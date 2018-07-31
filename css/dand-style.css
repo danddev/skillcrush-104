@@ -1,0 +1,40 @@
+/***Dan DeRienzo's advice***/
+
+.dand-advice {
+	background: #262626;
+	border: 3px dotted #00ccff;
+	padding: 50px;
+}
+
+.dand-advice a {
+    color: hotpink;
+}
+
+.dand-advice footer p {
+	color: #ffd480;
+	font-size: 18px;
+}
+
+.dand-advice header h1 { 
+    color: #0170ca;
+    font-family: 'Rye', cursive;
+    font-size: 34px;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.dand-advice h4 {
+    color: #0170ca;
+    font-family: 'Rye', cursive;
+    font-size: 24px;
+    padding: 5px 0;
+}
+
+.dand-advice p {
+    color: #ffffff;
+    font-family: 'Yesteryear', cursive;
+    font-size: 28px;
+}
+
+   
+/***End Dan DeRienzo's advice***/
