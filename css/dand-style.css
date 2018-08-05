@@ -1,0 +1,44 @@
+
+body {
+	background: #333333;
+	border: 5px dotted #ffb3ff;
+	margin: 20px;
+	padding: 10px;
+}
+
+.dand-advice a {
+	color: hotpink;
+	padding: 10px;
+	margin: 10px;
+}
+
+.dand-advice header h1 {
+	color: #34a3fe;
+	font-family: 'Rye', cursive;
+	padding: 5px;
+	text-align: center;
+	margin: 10px;
+}
+
+.advice h4 {
+	color: #34a3fe;
+	font-family: 'Rye', cursive;
+	padding: 5px;
+	margin: 10px;
+}
+
+.advice p {
+	color: #ffffff;
+	font-family: 'Yesteryear', cursive;
+	font-size: 26px;
+	padding: 5px;
+	margin: 10px;
+}
+
+.dand-advice footer {
+	color: #ffb84d;
+	font-family: 'Yesteryear', cursive;
+	font-size: 20px;
+	padding: 5px;
+	margin: 10px;
+}
